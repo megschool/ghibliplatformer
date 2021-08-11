@@ -7,5 +7,8 @@ Run Ghibli.exe
 
 ## Requirements
 - Windows Vista or later
-- Possibly some Linux distros
+- iOS (Apple Developer account required)
 
+## Gameplay
+
+[Game Running on Windows](https://youtu.be/xeHhHvRhxW8)
